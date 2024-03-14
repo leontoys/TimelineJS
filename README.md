@@ -1,2 +1,2 @@
 # TimelineJS
-repot to test timeline visualisations
+repo to test timeline visualisations
